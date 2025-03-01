@@ -2,3 +2,4 @@ pymongo
 python-telegram-bot
 pyTelegramBotAPI
 certifi
+pip install telebot flask aiogram pyTelegramBotAPI python-telegram-bot
